@@ -17,3 +17,5 @@ https://github.com/orgs/Simplyfi-Development/repositories
 ARBITRAGE BOT
 https://github.com/lemusosa/project-arbeetra
 
+TELEGRAM BOT
+https://github.com/DOFER998/Pharaoh_Farm_Pot_Bot
