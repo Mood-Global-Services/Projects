@@ -5,7 +5,7 @@ NEX LABS
 https://github.com/orgs/nexlabs22/repositories
 
 CBD PLATFORM 
-https://github.com/orgs/CBD-platform/repositories
+https://github.com/orgs/CBD-platform/repositories / Beta: https://friendly-lolly-6f82a7.netlify.app/
 
 CRAZY ZOO
 https://github.com/orgs/CrazyZooProject/repositories /
