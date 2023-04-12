@@ -24,4 +24,5 @@ https://github.com/DOFER998/Pharaoh_Farm_Pot_Bot
 ALGO STABLE COIN, USD STABILIZER PRICE
 https://github.com/AbuzarGhazanfarKhan/Algorithmic-stablecoin
 
-
+CRYPTO REAL ESTATE MARKET PLACE
+https://excalidraw.com/#room=b088521fa64f6f40cde3,cDRqRY0xdXB9qjB9areuHQ
