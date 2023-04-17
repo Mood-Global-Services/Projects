@@ -19,7 +19,7 @@ ARBITRAGE BOT
 https://github.com/lemusosa/project-arbeetra
 
 TELEGRAM BOT
-https://github.com/DOFER998/Pharaoh_Farm_Pot_Bot
+https://github.com/bobur1/PharaohFarmPot-telegram-bot
 
 ALGO STABLE COIN, USD STABILIZER PRICE
 https://github.com/AbuzarGhazanfarKhan/Algorithmic-stablecoin
