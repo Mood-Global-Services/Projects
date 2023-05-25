@@ -15,8 +15,6 @@ Flowchart: https://lucid.app/lucidchart/ea462e6e-7c2f-461a-98f6-2e65cdb56ddb/edi
 SIMPLIFY
 https://github.com/orgs/Simplyfi-Development/repositories
 
-ARBITRAGE BOT
-https://github.com/lemusosa/project-arbeetra
 
 TELEGRAM BOT
 https://github.com/gdbmood/telegram-bot-2
