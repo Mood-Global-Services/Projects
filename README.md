@@ -13,6 +13,12 @@ https://www.figma.com/proto/q9zmnXxoHLA7tDL8XdZjdX/Untitled?type=design&node-id=
 
 BEST SWAP PRICE AGGREGATOR: https://github.com/Morteza3123/Best-Swap
 
+CYCLE FINANCE:
+https://github.com/MoanaSeeha/www.cycle.finance / https://www.cycle.finance/
+
+EVM BRIDGE:
+https://github.com/MoanaSeeha/swaport_bridge_fe-be
+
 NFT STAKING PROJECT: https://github.com/Morteza3123/NFT-Staking
 
 Uniswap-V2-V3-Flashswap Model Integration for ANCHR PROTOCOL: https://github.com/Morteza3123/Uniswap-V2-V3-Flashswap
