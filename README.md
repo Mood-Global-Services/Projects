@@ -7,6 +7,9 @@ https://github.com/orgs/nexlabs22/repositories / site: https://www.nexlabs.io/
 ALGO STABLE COIN, USD STABILIZER PRICE
 https://github.com/AbuzarGhazanfarKhan/Algorithmic-stablecoin
 
+DECENTRALIZED SOCIAL MEDIA:
+https://github.com/nthitha040100/Decentralized-Social-Media
+
 CRYPTO REAL ESTATE MARKET PLACE
 https://excalidraw.com/#room=b088521fa64f6f40cde3,cDRqRY0xdXB9qjB9areuHQ , 
 https://www.figma.com/proto/q9zmnXxoHLA7tDL8XdZjdX/Untitled?type=design&node-id=2-7&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A7&show-proto-sidebar=1
