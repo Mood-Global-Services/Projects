@@ -2,7 +2,7 @@
 Overview of projects
 
 NEX LABS
-https://github.com/orgs/nexlabs22/repositories
+https://github.com/orgs/nexlabs22/repositories / site: https://www.nexlabs.io/
 
 CBD PLATFORM 
 https://github.com/orgs/CBD-platform/repositories / Beta: https://cbdplatform.xyz/
